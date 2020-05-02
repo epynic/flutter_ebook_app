@@ -1,0 +1,18 @@
+[
+    {
+        "bookid": "2936",
+        "imgURL": "assets/2936.jpg",
+        "title": "Romeo and Juliet",
+        "description": "Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage \"star-cross/d lovers\" whose untimely deaths ultimately unite their feuding households..",
+        "epubURL": "assets/2936.epub",
+        "rating": "4.1"
+    },
+    {
+        "bookid": "22",
+        "imgURL": "assets/22.jpg",
+        "title": "Alice/'s Adventures in Wonderland",
+        "description": "The tale is filled with allusions to Dodgson's friends (and enemies), and to the lessons that British schoolchildren were expected to memorize.",
+        "epubURL": "assets/22.epub",
+        "rating": "4.5"
+    }
+]
